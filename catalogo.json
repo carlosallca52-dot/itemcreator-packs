@@ -5,6 +5,12 @@
     "java": "1.21.11",
     "bedrock": "Geyser"
   },
-  "texturas": [],
-  "siguiente_id": 1
+  "texturas": [
+    {
+      "id": "corazon",
+      "nombre": "Corazón",
+      "archivo": "corazon.png"
+    }
+  ],
+  "siguiente_id": 2
 }
