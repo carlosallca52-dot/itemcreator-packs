@@ -1,0 +1,10 @@
+{
+  "pack": "ItemCreator",
+  "version": 1,
+  "minecraft": {
+    "java": "1.21.11",
+    "bedrock": "Geyser"
+  },
+  "texturas": [],
+  "siguiente_id": 1
+}
